@@ -1,20 +1,22 @@
 .header {
-    background-color: #FDA403;
+    background-color: #DE8704;
     text-align: left;
-    color: #FFC700;
+    color: #D3CE31;
     font-family: Arial, sans-serif;
-    border: #FDA403 solid 1px;
+    border: #DE8704 solid 1px;
     margin: 0;
     padding: 0;
     width: 500px;
     height: 60px;
+    line-height: 40px;
 }
 
 .box {
-    background-color: #00224D;
-    color: #FFC700;
+    background-color: #222536;
+    color: #D3CE31;
     font-family: Arial, sans-serif;
-    border: #00224D solid 1px;
+    border: #222536 solid 1px;
+    text-align: center;
     margin: 0;
     padding: 0;
     width: 500px;
@@ -22,15 +24,16 @@
 }
 
 .footer {
-    background-color: #FDA403;
+    background-color: #DE8704;
     text-align: right;
-    color: #FFC700;
+    color: #D3CE31;
     font-family: Arial, sans-serif;
-    border: #FDA403 solid 1px;
+    border: #DE8704 solid 1px;
     margin: 0;
     padding: 0;
     width: 500px;
     height: 70px;
+    line-height: 60px;
 }
 
 
@@ -42,7 +45,7 @@
 
 /* Style for Submit button */
 .submit-btn {
-    background-color: red;
+    background-color: #62AF5E;
     color: white;
     padding: 10px 20px;
     border: none;
@@ -53,7 +56,7 @@
 
 /* Style for Cancel button */
 .cancel-btn {
-    background-color: green;
+    background-color: #D9544F;
     color: white;
     padding: 10px 20px;
     border: none;
