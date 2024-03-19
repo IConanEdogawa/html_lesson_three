@@ -1,0 +1,50 @@
+.table-class{
+    border: 3px solid gray;
+
+    width: 400px;
+    height: 500px;
+}
+
+.table-class tr{
+    border: 3px solid gray;
+    background-color: #40A2E3;
+}
+.table-class tr td{
+    border: 3px solid gray;
+
+}
+
+.text-move{
+    text-align: center;
+    background-color: #FFC700;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #A0153E;
+}
+
+button {
+    padding: 10px 20px; /* Adjust padding as needed */
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+  /* Style for "Click me" button */
+  .click-me {
+    background-color: #5356FF; /* Soft blue */
+    color: #fff; /* White text */
+  }
+
+  /* Style for "Reset" button */
+  .reset-btn {
+    background-color: #A0153E; /* Soft red */
+    color: #fff; /* White text */
+  }
+
+  /* Style for "Submit Form" button */
+  .submit-btn {
+    background-color: #007F73; /* Soft green */
+    color: #fff; /* White text */
+  }
