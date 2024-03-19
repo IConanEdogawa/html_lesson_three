@@ -1,0 +1,68 @@
+.header {
+    background-color: #FDA403;
+    text-align: left;
+    color: #FFC700;
+    font-family: Arial, sans-serif;
+    border: #FDA403 solid 1px;
+    margin: 0;
+    padding: 0;
+    width: 500px;
+    height: 60px;
+}
+
+.box {
+    background-color: #00224D;
+    color: #FFC700;
+    font-family: Arial, sans-serif;
+    border: #00224D solid 1px;
+    margin: 0;
+    padding: 0;
+    width: 500px;
+    height: 500px;
+}
+
+.footer {
+    background-color: #FDA403;
+    text-align: right;
+    color: #FFC700;
+    font-family: Arial, sans-serif;
+    border: #FDA403 solid 1px;
+    margin: 0;
+    padding: 0;
+    width: 500px;
+    height: 70px;
+}
+
+
+.container {
+    width: 400px;
+    margin: 0 auto;
+}
+
+
+/* Style for Submit button */
+.submit-btn {
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+    /* Add margin for spacing */
+}
+
+/* Style for Cancel button */
+.cancel-btn {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Hover effect for buttons */
+.submit-btn:hover,
+.cancel-btn:hover {
+    opacity: 0.8;
+    /* Reduce opacity on hover */
+}
